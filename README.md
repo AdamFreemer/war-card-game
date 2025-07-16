@@ -10,7 +10,7 @@ A command-line implementation of the classic War card game in Ruby.
 4. Run the game:
 
 ```bash
-ruby war.rb
+$ ruby war.rb
 ```
 
 ## Game Rules
