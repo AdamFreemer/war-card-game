@@ -1,12 +1,24 @@
 # War Card Game
 
-A command-line implementation of the classic War card game in Ruby.
+- A command-line implementation of the classic War card game in Ruby.
+- Written to balance readability, compactness and abstractness.
 
 ## How to Run
 
+### Local Setup
 1. Make sure you have Ruby installed on your system
 2. Clone or download this repository
 3. Navigate to the project directory
+4. Run the game:
+
+```bash
+$ ruby war.rb
+```
+
+### GitHub Codespaces
+1. Click the green "Code" button / dropdown on the repository page.
+2. Select "Open with Codespaces" and create a new codespace.
+3. Once the codespace loads, open / navigate to the terminal.
 4. Run the game:
 
 ```bash
