@@ -17,7 +17,7 @@ $ ruby war.rb
 
 ### GitHub Codespaces
 1. Click the green "Code" button / dropdown on the repository page.
-2. Select "Open with Codespaces" and create a new codespace.
+2. Click the green button "Create codespace on master" and create a new codespace.
 3. Once the codespace loads, open / navigate to the terminal.
 4. Run the game:
 
